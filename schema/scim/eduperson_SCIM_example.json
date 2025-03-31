@@ -53,7 +53,7 @@
     "edupersonDisplayPronouns": [
         "She", "Ella", "她/她",  "היא"
     ],
-    # "audio": "",
+    
     "cn": "Mary Francis Xavier",
     "description": "A jolly good felon",
     "displayName": "Jack Dougherty",
@@ -62,7 +62,7 @@
     "homePhone": "+1 608 555 1212",
     "homePostalAddress": "1212 Como Ave.$Midton, SD 45621$USA",
     "initials": [ "f", "x" ],
-    # "jpegPhoto": "",
+    
     "localityName": "Hudson Valley",
     "labeledURI": "http://www.hsww.wiz/%7Eputter Harry's home page",
     "mail": "dumbledwore@hsww.wiz",
@@ -87,8 +87,8 @@
     "telephoneNumber": "+1 212 555 1234",
     "title": "Assistant Vice-Deputy for Redundancy Reduction",
     "uid": "gmettes"
-    # "uniqueIdentifier": "",
-    # "userPassword": "",
-    # "userSMIMECertificate": "",
-    # "x500uniqueIdentifier": ""
+    
+    
+    
+    
 }

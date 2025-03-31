@@ -12,6 +12,16 @@
             "caseExact": false,
             "mutability": "readWrite",
             "returned": "default",
+            "canonicalValues": [
+                "faculty",
+				"student",
+				"staff",
+				"alum",
+				"member",
+				"affiliate",
+				"employee",
+				"library-walk-in"
+            ],
             "uniqueness": "none"
         },{
             "name": "eduPersonEntitlement",

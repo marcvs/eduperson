@@ -1,5 +1,5 @@
 {
-    "id": "urn:to-be-determined:scim:schemas:eduperson:User",
+    "id": "urn:geant:scim:schemas:eduperson:User",
     "name": "SCIM schema for eduPerson",
     "description": "Attributes to describe a user in the context of eduPerson",
     "attributes": [

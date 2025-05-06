@@ -7,6 +7,7 @@ cat eduperson_schema_raw.json\
     | sed s_\ //.*__ \
     | sed s/\"unclear.*\"/true/ \
     | sed s/\"to\ be\ evaluated\"/true/ \
+    | sed '/^\ *$/d' \
     > eduperson_schema.json
 
 cat eduperson_SCIM_example_raw.json\
@@ -15,4 +16,5 @@ cat eduperson_SCIM_example_raw.json\
     | sed s_\ //.*__ \
     | sed s/\"unclear.*\"/true/ \
     | sed s/\"to\ be\ evaluated\"/true/ \
+    | sed '/^\ *$/d' \
     > eduperson_SCIM_example.json

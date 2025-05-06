@@ -1,7 +1,9 @@
 {
     "schemas": [
-        "urn:to-be-determined:scim:schemas:eduperson:User"
+        "urn:ietf:params:scim:schemas:core:2.0:User", 
+        "urn:geant:scim:schemas:eduperson:User"
     ],
+    "userName": "some id", 
     "id": "d7a53cb23423420398409de7355956560282158ecac8f3d2c770b474862f4756",
     "meta": {
         "resourceType": "User",
@@ -87,8 +89,4 @@
     "telephoneNumber": "+1 212 555 1234",
     "title": "Assistant Vice-Deputy for Redundancy Reduction",
     "uid": "gmettes"
-    
-    
-    
-    
 }

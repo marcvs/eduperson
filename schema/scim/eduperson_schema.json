@@ -473,8 +473,4 @@
             "uniqueness": "none"
         }
     ],
-    "meta": {
-        "resourceType": "Schema",
-        "location": "https://refeds.org/eduperson/scim/urn:geant:scim:schemas:eduperson:User"
-    }
 }

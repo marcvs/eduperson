@@ -511,6 +511,6 @@
     ],
     "meta": {
         "resourceType": "Schema",
-        "location": "https://to-be-determited/scim/schemas/urn:geant:scim:schemas:eduperson:User"
+        "location": "https://refeds.org/eduperson/scim/urn:geant:scim:schemas:eduperson:User"
     }
 }

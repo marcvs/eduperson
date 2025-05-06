@@ -511,6 +511,6 @@
     ],
     "meta": {
         "resourceType": "Schema",
-        "location": "https://to-be-determited/scim/schemas/urn:geant:aarc:scim:schemas:AARC_Community_Identity"
+        "location": "https://refeds.org/eduperson/scim/urn:geant:scim:schemas:eduperson:User"
     }
 }
